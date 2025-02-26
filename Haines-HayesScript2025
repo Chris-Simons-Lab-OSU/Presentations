@@ -1,0 +1,49 @@
+# Investigating odor-induced changes in taste perception in coffee  
+
+[slide 2]
+Cross-modal interactions are the integration of two senses. In my case, as a food scientist, this is taste and smell. The result of cross-modal interactions could be the enhancement or suppression of a given attribute. One example of cross-modal interactions at work is adding vanilla extract to pudding can make it taste sweeter, although the vanilla extract did not add any sugar to the product (Wang et al. 2019). A previous study showed that adding strawberry flavor to sucrose made it taste sweeter than sucrose alone, but peanut butter odor did not show the same effect (Frank & Byram 1988). 
+
+[slide 3]
+This brings us to point #1 about how cross-modal interactions are likely to occur: in a congruent taste-odor pair. The authors suspected that strawberry was more strongly associated with sweetness (such as strawberry-flavored candy) than peanut butter (which could be sweet like PB fudge or savory like pad thai). The second condition is that "nutritive" tastes are needed. They are the tastes of sweet, salty, and umami. These three tastes signal important molecules needed for basic biological functioning (Lim et al. 2014).
+
+[slide 4]
+While sweet, salty, and umami tastes are considered "nutritive", bitter and sour are considered "non-nutritive" (Lim et al. 2014). For sourness, there are not many studies focusing on this tastes. One study found that lemon aroma, while highly congruent with sour taste, was unable to enhance perceived sourness (Lim et al. 2014). 
+
+[slide 5]
+There have been a few more studies looking at cross-modal interactions involving bitterness. One study (Caporale et al. 2004) found the bitterness of quinine was enhanced by adding a cut-grass odor. Another study found that the bitterness of caffeine was enhanced by adding a coffee odor (Keast 2008). 
+
+[slide 6]
+Of all the studies I’ve mentioned so far, cross-modal interactions have been tested using single odor/taste mixtures.  
+This is not how most people consume food and beverages in daily life. Do cross-modal interactions occur in more complex solutions that more closely represent food you and I would recognize? I also wanted to challenge whether tastes like bitterness and sourness (again, considered “non-nutritive”) could participate in cross-modal interactions. 
+
+[slide 7]
+Coffee is known for its bitterness and sourness and is widely consumed around the world. It is also very complex, with many compounds contributing to its bitterness, sourness and aroma. Using coffee as the stimulus, I wanted to try and understand if coffee aroma could have an impact on the perception of bitterness and sourness through cross-modal interactions.
+
+[slide 8]
+Specifically, this research project will aim to answer 3 questions.
+1. Can a coffee aroma increase perceived bitterness and sourness?
+2. Could a coffee aroma increase perception of other tastes?
+Here, salty is going to represent "other tastes."
+3. If a coffee aroma can, do all odors increase perceived bitterness and sourness?
+Here, banana aroma will represent "other aromas."
+I hypothesize that coffee aroma can increase perceived bitterness and sourness through cross-modal interactions, but coffee aroma won’t increase the perception of other tastes. This is because I think coffee aroma will be congruent with bitterness and sourness to elicit cross-modal interactions.
+I also hypothesize that other odors will not increase the perception of bitterness and sourness, going back to the condition of congruency. 
+
+If I tested if coffee aroma could enhance all five basic tastes, this would be a very big design. Instead, I will choose salty as a “control” taste, representing the other tastes. Salty works as a control because it is “nutritive” and is not typically associated with coffee. If it is good enough for the NHANES it is good enough for me. Also, if I tested every odor against bitterness and sourness, it would become a very big design.  I chose banana to be the representative “other odor” because it is not represented in the world coffee sensory lexicon (not generally represented in coffee) and banana is not typically associated with bitterness or sourness. Even a green banana is not very bitter or sour.
+How do I get to my banana-flavored coffee? First I have to remove the aroma compounds from coffee. Here we are taking instant Folgers coffee and washing it twice in hexane to remove those aromatic compounds. Through a series of washes and freeze drying, we get a finished instant coffee product with very low aroma, essentially a deodorized coffee. We can confirm the decrease in volatiles using gas chromatography, and food safety (no residual hexane) through mass spectroscopy. 
+Salt will be added to try to match the intensity of sourness or bitterness innate to the coffee sample. The banana aroma will try to match the intensity of coffee aroma in regular, undeodorized coffee. 
+Titratable acidity analysis and total dissolved solids will be used to make sure the undeodorized and deodorized coffees are as similar as possible to each other. We do not want the deodorizing process to make significant changes to the coffee so that it is not a fair comparison. 
+I can use that deodorized coffee as a control against an odorized coffee (either coffee aroma or banana aroma) and test the bitterness, sourness, and saltiness in a paired comparison on the relevant taste attribute. Participants will do this paired comparison, then rate how confident they are in choosing the more intense bitter, the more sour, the more salty sample. Next, they will rate the intensity of the taste on a scale called the generalized labeled magnitude scale (gLMS; green). This scale is anchored at barely detectible to strongest sensation imaginable. Finally, they will rate how congruent the taste-aroma pair is from 0 to 100. Participants will complete 2 sessions – one for coffee aroma comparisons, one for banana aroma comparisons. 
+The paired comparison and confidence data will be used to calculate an R-index, or a proportion of discrimination between the two samples. This is one way to test whether adding an aroma can increase the bitterness or sourness of the coffee samples. I would expect that the coffee-odor samples will be chosen more frequently than the deodorized samples for bitterness and sourness, but not for saltiness, the control. I also do not expect to see the banana-odor sample chosen more frequently than the deodorized coffee.
+Using the rating data I can run an ANOVA with the odorant and participant as main effects. Again, I would expect that the coffee-odor coffee would have a significantly higher bitterness and sourness rating than the deodorized coffee. I would not expect significant differences between the salty comparisons or the comparisons in the banana aroma condition. We are doing both an R-index analysis and ANOVA analysis because the R-index is more sensitive and less cognitively demanding then rating, however R-index does not give effect sizes, but an ANOVA can.
+An ANOVA will also be used to test the degree of congruency between each odor and taste. I expect that the coffee+bitter/sour samples will be significantly more congruent than the deodorized or banana-odor coffees. I do not expect to see any differences between the congruency of either aroma and saltiness.
+Within in this design, there are some limitations. First, the deodorized coffee is not odor-less, but greatly reduced in intensity. Secondly, this design assumes that banana odor is not congruent with bitter or sour tastes. We can test this assumption by asking for congruency of the banana-taste mixtures. A third limitation could be sensory adaptation or fatigue. Coffee is quite a strong stimulus, and bitterness, sourness, or other attributes could linger beyond the time it takes to complete the evaluation. Rinising the palate with water and crackers can help limit this, as well as breaking the test into two sessions, which is what I’m proposing here.
+This proposed study aims to investigate how coffee aroma can influence the perception of bitterness and sourness through cross-modal interactions. It aims to test the congruency between coffee odor and bitter and sour tastes, the nutritive hypothesis, and it aims to test cross-modal interactions in a consumer-relevant context.
+Thank you.
+
+## References
+Wang et al. (2019). *Food Qual and Pref* 77, 206-213.
+Frank & Byram. (1988). *Chem Senses* 13(3), 445-455.
+Lim et al. (2014). *Food Qual and Pref* 34, 5-13.
+Caporale et al. (2004). *Food Qual and Pref* 15, 219-277. 
+Donfrancesco et al. (2014). *JOSS* 29(4), 301-311. https://doi.org/10.1111/joss.12104
