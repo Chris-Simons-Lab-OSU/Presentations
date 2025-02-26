@@ -49,6 +49,11 @@ They will also state how confident they are in choosing the more intense sample.
 [slide 13]
 For data analysis, the paired comparison and confidence data will be used to calculate an R-index. The intensity ratings and congruency ratings will by analyzed by t-tests. I'll get into the details more in a minute.
 
+[slide 14]
+R-index is a proportion of discrimination. I expect the coffee-odor samples to be selected more frequently as the more intense samples for bitterness and sourness, but not saltiness. I would not expect any sample in the banana-aroma condition to be chosen more frequently than the other, because I hypothesize that banana aroma is not congruent with bitter, sour, or salty.
+If the bitter or sour samples are not chosen more frequently in the coffee-aroma condition, it could suggest that these "non-nutritive" tastes are unable to participate in cross-modal interactions.
+
+[slide 15]
 
 The paired comparison and confidence data will be used to calculate an R-index, or a proportion of discrimination between the two samples. This is one way to test whether adding an aroma can increase the bitterness or sourness of the coffee samples. I would expect that the coffee-odor samples will be chosen more frequently than the deodorized samples for bitterness and sourness, but not for saltiness, the control. I also do not expect to see the banana-odor sample chosen more frequently than the deodorized coffee.
 Using the rating data I can run an ANOVA with the odorant and participant as main effects. Again, I would expect that the coffee-odor coffee would have a significantly higher bitterness and sourness rating than the deodorized coffee. I would not expect significant differences between the salty comparisons or the comparisons in the banana aroma condition. We are doing both an R-index analysis and ANOVA analysis because the R-index is more sensitive and less cognitively demanding then rating, however R-index does not give effect sizes, but an ANOVA can.
