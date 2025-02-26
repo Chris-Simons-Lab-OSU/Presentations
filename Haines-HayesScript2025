@@ -29,9 +29,20 @@ Here, banana aroma will represent "other aromas."
 I hypothesize that coffee aroma can increase perceived bitterness and sourness through cross-modal interactions, but coffee aroma won’t increase the perception of other tastes. This is because I think coffee aroma will be congruent with bitterness and sourness to elicit cross-modal interactions.
 I also hypothesize that other odors will not increase the perception of bitterness and sourness, going back to the condition of congruency. 
 
-If I tested if coffee aroma could enhance all five basic tastes, this would be a very big design. Instead, I will choose salty as a “control” taste, representing the other tastes. Salty works as a control because it is “nutritive” and is not typically associated with coffee. If it is good enough for the NHANES it is good enough for me. Also, if I tested every odor against bitterness and sourness, it would become a very big design.  I chose banana to be the representative “other odor” because it is not represented in the world coffee sensory lexicon (not generally represented in coffee) and banana is not typically associated with bitterness or sourness. Even a green banana is not very bitter or sour.
-How do I get to my banana-flavored coffee? First I have to remove the aroma compounds from coffee. Here we are taking instant Folgers coffee and washing it twice in hexane to remove those aromatic compounds. Through a series of washes and freeze drying, we get a finished instant coffee product with very low aroma, essentially a deodorized coffee. We can confirm the decrease in volatiles using gas chromatography, and food safety (no residual hexane) through mass spectroscopy. 
+
+[slide 9]
+I chose banana to be the representative “other odor” because it is not represented in the world coffee sensory lexicon (not generally represented in coffee) and banana is not typically associated with bitterness or sourness. Even a green banana is not very bitter or sour.
+Salty works as a control because it is “nutritive” and is not typically associated with coffee. It is listed on the coffee lexicon, but it is listed under "chemical," more representative of a defect in specialty coffee. 
+How do I get to my banana-flavored coffee?
+
+[slide 10]
+First I have to remove the aroma compounds from coffee. Here we are taking instant Folgers coffee and through a series of washes and freeze drying, we get a finished instant coffee product that is deodorized. 
 Salt will be added to try to match the intensity of sourness or bitterness innate to the coffee sample. The banana aroma will try to match the intensity of coffee aroma in regular, undeodorized coffee. 
+
+[slide 11]
+We can confirm the decrease in volatiles using gas chromatography, and food safety (no residual hexane) through mass spectroscopy. 
+Total dissolved solids and titratable acidity can be used to help ensure the different coffee samples are prepared in a similar manner, whether it is deodorized or not.
+
 Titratable acidity analysis and total dissolved solids will be used to make sure the undeodorized and deodorized coffees are as similar as possible to each other. We do not want the deodorizing process to make significant changes to the coffee so that it is not a fair comparison. 
 I can use that deodorized coffee as a control against an odorized coffee (either coffee aroma or banana aroma) and test the bitterness, sourness, and saltiness in a paired comparison on the relevant taste attribute. Participants will do this paired comparison, then rate how confident they are in choosing the more intense bitter, the more sour, the more salty sample. Next, they will rate the intensity of the taste on a scale called the generalized labeled magnitude scale (gLMS; green). This scale is anchored at barely detectible to strongest sensation imaginable. Finally, they will rate how congruent the taste-aroma pair is from 0 to 100. Participants will complete 2 sessions – one for coffee aroma comparisons, one for banana aroma comparisons. 
 The paired comparison and confidence data will be used to calculate an R-index, or a proportion of discrimination between the two samples. This is one way to test whether adding an aroma can increase the bitterness or sourness of the coffee samples. I would expect that the coffee-odor samples will be chosen more frequently than the deodorized samples for bitterness and sourness, but not for saltiness, the control. I also do not expect to see the banana-odor sample chosen more frequently than the deodorized coffee.
@@ -47,3 +58,4 @@ Frank & Byram. (1988). *Chem Senses* 13(3), 445-455.
 Lim et al. (2014). *Food Qual and Pref* 34, 5-13.
 Caporale et al. (2004). *Food Qual and Pref* 15, 219-277. 
 Donfrancesco et al. (2014). *JOSS* 29(4), 301-311. https://doi.org/10.1111/joss.12104
+World Coffee Sensory Lexicon
