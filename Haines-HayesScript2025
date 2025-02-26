@@ -29,7 +29,6 @@ Here, banana aroma will represent "other aromas."
 I hypothesize that coffee aroma can increase perceived bitterness and sourness through cross-modal interactions, but coffee aroma won’t increase the perception of other tastes. This is because I think coffee aroma will be congruent with bitterness and sourness to elicit cross-modal interactions.
 I also hypothesize that other odors will not increase the perception of bitterness and sourness, going back to the condition of congruency. 
 
-
 [slide 9]
 I chose banana to be the representative “other odor” because it is not represented in the world coffee sensory lexicon (not generally represented in coffee) and banana is not typically associated with bitterness or sourness. Even a green banana is not very bitter or sour.
 Salty works as a control because it is “nutritive” and is not typically associated with coffee. It is listed on the coffee lexicon, but it is listed under "chemical," more representative of a defect in specialty coffee. 
@@ -41,10 +40,16 @@ Salt will be added to try to match the intensity of sourness or bitterness innat
 
 [slide 11]
 We can confirm the decrease in volatiles using gas chromatography, and food safety (no residual hexane) through mass spectroscopy. 
-Total dissolved solids and titratable acidity can be used to help ensure the different coffee samples are prepared in a similar manner, whether it is deodorized or not.
+Total dissolved solids and titratable acidity can be used to help ensure the different coffee samples are prepared in a similar manner, whether it is deodorized or not. We do not want the deodorizing process to make significant changes to the coffee so that the deodorized and coffee-odorized samples can be compared together.
 
-Titratable acidity analysis and total dissolved solids will be used to make sure the undeodorized and deodorized coffees are as similar as possible to each other. We do not want the deodorizing process to make significant changes to the coffee so that it is not a fair comparison. 
-I can use that deodorized coffee as a control against an odorized coffee (either coffee aroma or banana aroma) and test the bitterness, sourness, and saltiness in a paired comparison on the relevant taste attribute. Participants will do this paired comparison, then rate how confident they are in choosing the more intense bitter, the more sour, the more salty sample. Next, they will rate the intensity of the taste on a scale called the generalized labeled magnitude scale (gLMS; green). This scale is anchored at barely detectible to strongest sensation imaginable. Finally, they will rate how congruent the taste-aroma pair is from 0 to 100. Participants will complete 2 sessions – one for coffee aroma comparisons, one for banana aroma comparisons. 
+[slide 12]
+For the sensory method, I plan to recruit 30 coffee drinkers. They will do a paired comparison between a deodorized sample and an odorized sample, either a coffee aroma or a banana aroma. After they taste the two samples, they will say which is more intense, more bitter, more sour, or more salty.
+They will also state how confident they are in choosing the more intense sample. Next, they will rate the taste intensity, and finally, rate the congruency, or how frequently the taste-aroma pair are seen in "everyday foods" (Lim et al. 2014). Participants will complete 2 sessions – one for coffee aroma comparisons, one for banana aroma comparisons. 
+
+[slide 13]
+For data analysis, the paired comparison and confidence data will be used to calculate an R-index. The intensity ratings and congruency ratings will by analyzed by t-tests. I'll get into the details more in a minute.
+
+
 The paired comparison and confidence data will be used to calculate an R-index, or a proportion of discrimination between the two samples. This is one way to test whether adding an aroma can increase the bitterness or sourness of the coffee samples. I would expect that the coffee-odor samples will be chosen more frequently than the deodorized samples for bitterness and sourness, but not for saltiness, the control. I also do not expect to see the banana-odor sample chosen more frequently than the deodorized coffee.
 Using the rating data I can run an ANOVA with the odorant and participant as main effects. Again, I would expect that the coffee-odor coffee would have a significantly higher bitterness and sourness rating than the deodorized coffee. I would not expect significant differences between the salty comparisons or the comparisons in the banana aroma condition. We are doing both an R-index analysis and ANOVA analysis because the R-index is more sensitive and less cognitively demanding then rating, however R-index does not give effect sizes, but an ANOVA can.
 An ANOVA will also be used to test the degree of congruency between each odor and taste. I expect that the coffee+bitter/sour samples will be significantly more congruent than the deodorized or banana-odor coffees. I do not expect to see any differences between the congruency of either aroma and saltiness.
